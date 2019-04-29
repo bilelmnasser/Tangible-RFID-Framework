@@ -1,0 +1,17 @@
+c:\users\bilel\documents\visual studio 2013\Projects\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\bin\Debug\ColocartsTangibleFrameWork.dll
+c:\users\bilel\documents\visual studio 2013\Projects\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\bin\Debug\ColocartsTangibleFrameWork.pdb
+c:\users\bilel\documents\visual studio 2013\Projects\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.csprojResolveAssemblyReference.cache
+c:\users\bilel\documents\visual studio 2013\Projects\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.dll
+c:\users\bilel\documents\visual studio 2013\Projects\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.pdb
+F:\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.pdb
+F:\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\bin\Debug\ColocartsTangibleFrameWork.pdb
+F:\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.csprojResolveAssemblyReference.cache
+F:\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\bin\Debug\ColocartsTangibleFrameWork.exe.config
+F:\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\bin\Debug\ColocartsTangibleFrameWork.exe
+F:\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.exe
+\\MINUS\Production\#Transfert\Bilel\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.pdb
+\\MINUS\Production\#Transfert\Bilel\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\bin\Debug\ColocartsTangibleFrameWork.dll.config
+\\MINUS\Production\#Transfert\Bilel\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\bin\Debug\ColocartsTangibleFrameWork.dll
+\\MINUS\Production\#Transfert\Bilel\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\bin\Debug\ColocartsTangibleFrameWork.pdb
+\\MINUS\Production\#Transfert\Bilel\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.csprojResolveAssemblyReference.cache
+\\MINUS\Production\#Transfert\Bilel\RFID\ColocartsTangibleFrameWork\ColocartsTangibleFrameWork\obj\Debug\ColocartsTangibleFrameWork.dll

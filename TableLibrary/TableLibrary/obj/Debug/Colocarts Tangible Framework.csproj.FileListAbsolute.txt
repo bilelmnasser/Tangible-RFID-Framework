@@ -1,0 +1,6 @@
+C:\Users\3D-02-PC\Documents\Visual Studio 2013\Projects\TableLibrary\TableLibrary\obj\Debug\ColocartsFramework.dll
+C:\Users\3D-02-PC\Documents\Visual Studio 2013\Projects\TableLibrary\TableLibrary\obj\Debug\ColocartsFramework.pdb
+C:\Users\3D-02-PC\Documents\Visual Studio 2013\Projects\TableLibrary\TableLibrary\bin\Debug\ColocartsFramework.XML
+C:\Users\3D-02-PC\Documents\Visual Studio 2013\Projects\TableLibrary\TableLibrary\bin\Debug\ColocartsFramework.dll
+C:\Users\3D-02-PC\Documents\Visual Studio 2013\Projects\TableLibrary\TableLibrary\bin\Debug\ColocartsFramework.pdb
+C:\Users\3D-02-PC\Documents\Visual Studio 2013\Projects\TableLibrary\TableLibrary\obj\Debug\Colocarts Tangible Framework.csprojResolveAssemblyReference.cache
