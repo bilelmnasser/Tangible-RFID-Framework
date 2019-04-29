@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddToFrameBuffer method" Url="html/M_TangibleFramework_Table_AddToFrameBuffer.htm" />
+  <HelpKINode Title="Automatic_Network_Search method" Url="html/M_TangibleFramework_TableServer_Automatic_Network_Search.htm" />
+  <HelpKINode Title="calcul_Medium_point method" Url="html/M_TangibleFramework_TableServer_calcul_Medium_point.htm" />
+  <HelpKINode Title="ClearBuffer method" Url="html/M_TangibleFramework_Slab_ClearBuffer.htm" />
+  <HelpKINode Title="Commanding_Socket field" Url="html/F_TangibleFramework_TableServer_Commanding_Socket.htm" />
+  <HelpKINode Title="Configure_Slabs_Paratmers method" Url="html/M_TangibleFramework_TableServer_Configure_Slabs_Paratmers.htm" />
+  <HelpKINode Title="Configure_Slabs_Positions method" Url="html/M_TangibleFramework_TableServer_Configure_Slabs_Positions.htm" />
+  <HelpKINode Title="Configure_Slabs_XML method" Url="html/M_TangibleFramework_TableServer_Configure_Slabs_XML.htm" />
+  <HelpKINode Title="Connected_Slab_List field" Url="html/F_TangibleFramework_TableServer_Connected_Slab_List.htm" />
+  <HelpKINode Title="DeserializeObject method" Url="html/M_TangibleFramework_Serialization_DeserializeObject.htm" />
+  <HelpKINode Title="Dispose method" Url="html/M_TangibleFramework_TableServer_Dispose.htm" />
+  <HelpKINode Title="FrameBuffer field" Url="html/F_TangibleFramework_Table_FrameBuffer.htm" />
+  <HelpKINode Title="FrameTime field" Url="html/F_TangibleFramework_Response_FrameTime.htm" />
+  <HelpKINode Title="FrameValue field" Url="html/F_TangibleFramework_Response_FrameValue.htm" />
+  <HelpKINode Title="Get_Tag_Position method" Url="html/M_TangibleFramework_TableServer_Get_Tag_Position.htm" />
+  <HelpKINode Title="ID field" Url="html/F_TangibleFramework_Tag_ID.htm" />
+  <HelpKINode Title="initialize method" Url="html/M_TangibleFramework_Slab_initialize.htm" />
+  <HelpKINode Title="initilize_Class_Members method" Url="html/M_TangibleFramework_TableServer_initilize_Class_Members.htm" />
+  <HelpKINode Title="Ip_Address field" Url="html/F_TangibleFramework_TableServer_Ip_Address.htm" />
+  <HelpKINode Title="IP_Maximum field" Url="html/F_TangibleFramework_TableServer_IP_Maximum.htm" />
+  <HelpKINode Title="IP_Minimum field" Url="html/F_TangibleFramework_TableServer_IP_Minimum.htm" />
+  <HelpKINode Title="List_Tags_ID field" Url="html/F_TangibleFramework_TableServer_List_Tags_ID.htm" />
+  <HelpKINode Title="Main_Buffer field" Url="html/F_TangibleFramework_TableServer_Main_Buffer.htm" />
+  <HelpKINode Title="Minimum_Rssi_Value field" Url="html/F_TangibleFramework_TableServer_Minimum_Rssi_Value.htm" />
+  <HelpKINode Title="On_Tags_Leaving method" Url="html/M_TangibleFramework_TableServer_On_Tags_Leaving.htm" />
+  <HelpKINode Title="On_Tags_Moving method" Url="html/M_TangibleFramework_TableServer_On_Tags_Moving.htm" />
+  <HelpKINode Title="Point class">
+    <HelpKINode Title="Point Class" Url="html/T_TangibleFramework_Point.htm" />
+    <HelpKINode Title="about Point class" Url="html/T_TangibleFramework_Point.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TangibleFramework_Point__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TangibleFramework_Point.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Point.Point constructor" Url="html/Overload_TangibleFramework_Point__ctor.htm" />
+  <HelpKINode Title="Point.X field" Url="html/F_TangibleFramework_Point_X.htm" />
+  <HelpKINode Title="Point.Y field" Url="html/F_TangibleFramework_Point_Y.htm" />
+  <HelpKINode Title="Port_Number field" Url="html/F_TangibleFramework_TableServer_Port_Number.htm" />
+  <HelpKINode Title="Position field" Url="html/F_TangibleFramework_Tag_Position.htm" />
+  <HelpKINode Title="Response structure">
+    <HelpKINode Title="Response Structure" Url="html/T_TangibleFramework_Response.htm" />
+    <HelpKINode Title="about Response structure" Url="html/T_TangibleFramework_Response.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TangibleFramework_Response.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Response.FrameTime field" Url="html/F_TangibleFramework_Response_FrameTime.htm" />
+  <HelpKINode Title="Response.FrameValue field" Url="html/F_TangibleFramework_Response_FrameValue.htm" />
+  <HelpKINode Title="RSSI_Mode_Is_Activated field" Url="html/F_TangibleFramework_TableServer_RSSI_Mode_Is_Activated.htm" />
+  <HelpKINode Title="Run method" Url="html/M_TangibleFramework_TableServer_Run.htm" />
+  <HelpKINode Title="Send_Command method" Url="html/M_TangibleFramework_TableServer_Send_Command.htm" />
+  <HelpKINode Title="Serialization class">
+    <HelpKINode Title="Serialization Class" Url="html/T_TangibleFramework_Serialization.htm" />
+    <HelpKINode Title="about Serialization class" Url="html/T_TangibleFramework_Serialization.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TangibleFramework_Serialization.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Serialization.DeserializeObject method" Url="html/M_TangibleFramework_Serialization_DeserializeObject.htm" />
+  <HelpKINode Title="Serialization.SerializeObject method" Url="html/M_TangibleFramework_Serialization_SerializeObject.htm" />
+  <HelpKINode Title="SerializeObject method" Url="html/M_TangibleFramework_Serialization_SerializeObject.htm" />
+  <HelpKINode Title="Server_Is_Running field" Url="html/F_TangibleFramework_TableServer_Server_Is_Running.htm" />
+  <HelpKINode Title="Server_Thread field" Url="html/F_TangibleFramework_TableServer_Server_Thread.htm" />
+  <HelpKINode Title="Slab class">
+    <HelpKINode Title="Slab Class" Url="html/T_TangibleFramework_Slab.htm" />
+    <HelpKINode Title="about Slab class" Url="html/T_TangibleFramework_Slab.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TangibleFramework_Slab__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TangibleFramework_Slab.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TangibleFramework_Slab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Slab.ClearBuffer method" Url="html/M_TangibleFramework_Slab_ClearBuffer.htm" />
+  <HelpKINode Title="Slab.initialize method" Url="html/M_TangibleFramework_Slab_initialize.htm" />
+  <HelpKINode Title="Slab.Slab constructor" Url="html/M_TangibleFramework_Slab__ctor.htm" />
+  <HelpKINode Title="Slab.SlabTagBuffer field" Url="html/F_TangibleFramework_Slab_SlabTagBuffer.htm" />
+  <HelpKINode Title="Slab.UpdateBuffer method" Url="html/M_TangibleFramework_Slab_UpdateBuffer.htm" />
+  <HelpKINode Title="SlabPositions field" Url="html/F_TangibleFramework_TableServer_SlabPositions.htm" />
+  <HelpKINode Title="SlabsTagBuffer field" Url="html/F_TangibleFramework_Table_SlabsTagBuffer.htm" />
+  <HelpKINode Title="Slabs_IP_File field" Url="html/F_TangibleFramework_TableServer_Slabs_IP_File.htm" />
+  <HelpKINode Title="SlabTagBuffer field" Url="html/F_TangibleFramework_Slab_SlabTagBuffer.htm" />
+  <HelpKINode Title="Slab_Sensors_Height field" Url="html/F_TangibleFramework_TableServer_Slab_Sensors_Height.htm" />
+  <HelpKINode Title="Slab_Sensors_WIdth field" Url="html/F_TangibleFramework_TableServer_Slab_Sensors_WIdth.htm" />
+  <HelpKINode Title="Start method" Url="html/M_TangibleFramework_TableServer_Start.htm" />
+  <HelpKINode Title="Stop method" Url="html/M_TangibleFramework_TableServer_Stop.htm" />
+  <HelpKINode Title="Table class">
+    <HelpKINode Title="Table Class" Url="html/T_TangibleFramework_Table.htm" />
+    <HelpKINode Title="about Table class" Url="html/T_TangibleFramework_Table.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TangibleFramework_Table__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TangibleFramework_Table.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TangibleFramework_Table.htm" />
+  </HelpKINode>
+  <HelpKINode Title="table field" Url="html/F_TangibleFramework_TableServer_table.htm" />
+  <HelpKINode Title="Table.AddToFrameBuffer method" Url="html/M_TangibleFramework_Table_AddToFrameBuffer.htm" />
+  <HelpKINode Title="Table.FrameBuffer field" Url="html/F_TangibleFramework_Table_FrameBuffer.htm" />
+  <HelpKINode Title="Table.SlabsTagBuffer field" Url="html/F_TangibleFramework_Table_SlabsTagBuffer.htm" />
+  <HelpKINode Title="Table.Table constructor" Url="html/M_TangibleFramework_Table__ctor.htm" />
+  <HelpKINode Title="Table.UpdateFrameBuffer method" Url="html/M_TangibleFramework_Table_UpdateFrameBuffer.htm" />
+  <HelpKINode Title="Table.UpdateSlabsTagBuffer method" Url="html/M_TangibleFramework_Table_UpdateSlabsTagBuffer.htm" />
+  <HelpKINode Title="TableServer class">
+    <HelpKINode Title="TableServer Class" Url="html/T_TangibleFramework_TableServer.htm" />
+    <HelpKINode Title="about TableServer class" Url="html/T_TangibleFramework_TableServer.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TangibleFramework_TableServer__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TangibleFramework_TableServer__cctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TangibleFramework_TableServer.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TangibleFramework_TableServer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TangibleFramework_TableServer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TableServer.Automatic_Network_Search method" Url="html/M_TangibleFramework_TableServer_Automatic_Network_Search.htm" />
+  <HelpKINode Title="TableServer.calcul_Medium_point method" Url="html/M_TangibleFramework_TableServer_calcul_Medium_point.htm" />
+  <HelpKINode Title="TableServer.Commanding_Socket field" Url="html/F_TangibleFramework_TableServer_Commanding_Socket.htm" />
+  <HelpKINode Title="TableServer.Configure_Slabs_Paratmers method" Url="html/M_TangibleFramework_TableServer_Configure_Slabs_Paratmers.htm" />
+  <HelpKINode Title="TableServer.Configure_Slabs_Positions method" Url="html/M_TangibleFramework_TableServer_Configure_Slabs_Positions.htm" />
+  <HelpKINode Title="TableServer.Configure_Slabs_XML method" Url="html/M_TangibleFramework_TableServer_Configure_Slabs_XML.htm" />
+  <HelpKINode Title="TableServer.Connected_Slab_List field" Url="html/F_TangibleFramework_TableServer_Connected_Slab_List.htm" />
+  <HelpKINode Title="TableServer.Dispose method" Url="html/M_TangibleFramework_TableServer_Dispose.htm" />
+  <HelpKINode Title="TableServer.Get_Tag_Position method" Url="html/M_TangibleFramework_TableServer_Get_Tag_Position.htm" />
+  <HelpKINode Title="TableServer.initilize_Class_Members method" Url="html/M_TangibleFramework_TableServer_initilize_Class_Members.htm" />
+  <HelpKINode Title="TableServer.Ip_Address field" Url="html/F_TangibleFramework_TableServer_Ip_Address.htm" />
+  <HelpKINode Title="TableServer.IP_Maximum field" Url="html/F_TangibleFramework_TableServer_IP_Maximum.htm" />
+  <HelpKINode Title="TableServer.IP_Minimum field" Url="html/F_TangibleFramework_TableServer_IP_Minimum.htm" />
+  <HelpKINode Title="TableServer.List_Tags_ID field" Url="html/F_TangibleFramework_TableServer_List_Tags_ID.htm" />
+  <HelpKINode Title="TableServer.Main_Buffer field" Url="html/F_TangibleFramework_TableServer_Main_Buffer.htm" />
+  <HelpKINode Title="TableServer.Minimum_Rssi_Value field" Url="html/F_TangibleFramework_TableServer_Minimum_Rssi_Value.htm" />
+  <HelpKINode Title="TableServer.On_Tags_Leaving method" Url="html/M_TangibleFramework_TableServer_On_Tags_Leaving.htm" />
+  <HelpKINode Title="TableServer.On_Tags_Moving method" Url="html/M_TangibleFramework_TableServer_On_Tags_Moving.htm" />
+  <HelpKINode Title="TableServer.Port_Number field" Url="html/F_TangibleFramework_TableServer_Port_Number.htm" />
+  <HelpKINode Title="TableServer.RSSI_Mode_Is_Activated field" Url="html/F_TangibleFramework_TableServer_RSSI_Mode_Is_Activated.htm" />
+  <HelpKINode Title="TableServer.Run method" Url="html/M_TangibleFramework_TableServer_Run.htm" />
+  <HelpKINode Title="TableServer.Send_Command method" Url="html/M_TangibleFramework_TableServer_Send_Command.htm" />
+  <HelpKINode Title="TableServer.Server_Is_Running field" Url="html/F_TangibleFramework_TableServer_Server_Is_Running.htm" />
+  <HelpKINode Title="TableServer.Server_Thread field" Url="html/F_TangibleFramework_TableServer_Server_Thread.htm" />
+  <HelpKINode Title="TableServer.SlabPositions field" Url="html/F_TangibleFramework_TableServer_SlabPositions.htm" />
+  <HelpKINode Title="TableServer.Slabs_IP_File field" Url="html/F_TangibleFramework_TableServer_Slabs_IP_File.htm" />
+  <HelpKINode Title="TableServer.Slab_Sensors_Height field" Url="html/F_TangibleFramework_TableServer_Slab_Sensors_Height.htm" />
+  <HelpKINode Title="TableServer.Slab_Sensors_WIdth field" Url="html/F_TangibleFramework_TableServer_Slab_Sensors_WIdth.htm" />
+  <HelpKINode Title="TableServer.Start method" Url="html/M_TangibleFramework_TableServer_Start.htm" />
+  <HelpKINode Title="TableServer.Stop method" Url="html/M_TangibleFramework_TableServer_Stop.htm" />
+  <HelpKINode Title="TableServer.table field" Url="html/F_TangibleFramework_TableServer_table.htm" />
+  <HelpKINode Title="TableServer.TableServer constructor">
+    <HelpKINode Title="TableServer Constructor " Url="html/M_TangibleFramework_TableServer__ctor.htm" />
+    <HelpKINode Title="TableServer Constructor " Url="html/M_TangibleFramework_TableServer__cctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TableServer.Table_Sensors_height field" Url="html/F_TangibleFramework_TableServer_Table_Sensors_height.htm" />
+  <HelpKINode Title="TableServer.Table_Sensors_WIdth field" Url="html/F_TangibleFramework_TableServer_Table_Sensors_WIdth.htm" />
+  <HelpKINode Title="TableServer.Tags_Leaving event" Url="html/E_TangibleFramework_TableServer_Tags_Leaving.htm" />
+  <HelpKINode Title="TableServer.Tags_Updates event" Url="html/E_TangibleFramework_TableServer_Tags_Updates.htm" />
+  <HelpKINode Title="TableServer.Time_Out field" Url="html/F_TangibleFramework_TableServer_Time_Out.htm" />
+  <HelpKINode Title="TableServer.UDP_Listner field" Url="html/F_TangibleFramework_TableServer_UDP_Listner.htm" />
+  <HelpKINode Title="Table_Sensors_height field" Url="html/F_TangibleFramework_TableServer_Table_Sensors_height.htm" />
+  <HelpKINode Title="Table_Sensors_WIdth field" Url="html/F_TangibleFramework_TableServer_Table_Sensors_WIdth.htm" />
+  <HelpKINode Title="Tag class">
+    <HelpKINode Title="Tag Class" Url="html/T_TangibleFramework_Tag.htm" />
+    <HelpKINode Title="about Tag class" Url="html/T_TangibleFramework_Tag.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TangibleFramework_Tag__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_TangibleFramework_Tag.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Tag.ID field" Url="html/F_TangibleFramework_Tag_ID.htm" />
+  <HelpKINode Title="Tag.Position field" Url="html/F_TangibleFramework_Tag_Position.htm" />
+  <HelpKINode Title="Tag.Tag constructor" Url="html/Overload_TangibleFramework_Tag__ctor.htm" />
+  <HelpKINode Title="TagEventHandler delegate" Url="html/T_TangibleFramework_TagEventHandler.htm" />
+  <HelpKINode Title="Tags_Leaving event" Url="html/E_TangibleFramework_TableServer_Tags_Leaving.htm" />
+  <HelpKINode Title="Tags_Updates event" Url="html/E_TangibleFramework_TableServer_Tags_Updates.htm" />
+  <HelpKINode Title="TangibleFramework namespace" Url="html/N_TangibleFramework.htm" />
+  <HelpKINode Title="TangibleFramework.Point class" Url="html/T_TangibleFramework_Point.htm" />
+  <HelpKINode Title="TangibleFramework.Response structure" Url="html/T_TangibleFramework_Response.htm" />
+  <HelpKINode Title="TangibleFramework.Serialization class" Url="html/T_TangibleFramework_Serialization.htm" />
+  <HelpKINode Title="TangibleFramework.Slab class" Url="html/T_TangibleFramework_Slab.htm" />
+  <HelpKINode Title="TangibleFramework.Table class" Url="html/T_TangibleFramework_Table.htm" />
+  <HelpKINode Title="TangibleFramework.TableServer class" Url="html/T_TangibleFramework_TableServer.htm" />
+  <HelpKINode Title="TangibleFramework.Tag class" Url="html/T_TangibleFramework_Tag.htm" />
+  <HelpKINode Title="TangibleFramework.TagEventHandler delegate" Url="html/T_TangibleFramework_TagEventHandler.htm" />
+  <HelpKINode Title="Time_Out field" Url="html/F_TangibleFramework_TableServer_Time_Out.htm" />
+  <HelpKINode Title="UDP_Listner field" Url="html/F_TangibleFramework_TableServer_UDP_Listner.htm" />
+  <HelpKINode Title="UpdateBuffer method" Url="html/M_TangibleFramework_Slab_UpdateBuffer.htm" />
+  <HelpKINode Title="UpdateFrameBuffer method" Url="html/M_TangibleFramework_Table_UpdateFrameBuffer.htm" />
+  <HelpKINode Title="UpdateSlabsTagBuffer method" Url="html/M_TangibleFramework_Table_UpdateSlabsTagBuffer.htm" />
+  <HelpKINode Title="X field" Url="html/F_TangibleFramework_Point_X.htm" />
+  <HelpKINode Title="Y field" Url="html/F_TangibleFramework_Point_Y.htm" />
+</HelpKI>

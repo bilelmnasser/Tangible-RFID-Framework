@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="008a21a1-8f8d-4340-bc65-b1e42e38b89b" Title="TangibleFramework" Url="html/N_TangibleFramework.htm">
+    <HelpTOCNode Id="d007b23e-ec7a-4fb5-a725-db03c7f489ca" Title="Point Class" Url="html/T_TangibleFramework_Point.htm">
+      <HelpTOCNode Id="960148d0-ff09-46fb-902b-add6c7e918d5" Title="Point Constructor " Url="html/Overload_TangibleFramework_Point__ctor.htm">
+        <HelpTOCNode Title="Point Constructor " Url="html/M_TangibleFramework_Point__ctor.htm" />
+        <HelpTOCNode Title="Point Constructor (Single, Single)" Url="html/M_TangibleFramework_Point__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d8caa8fd-d756-48d3-8014-49d1ee48666d" Title="Point Fields" Url="html/Fields_T_TangibleFramework_Point.htm">
+        <HelpTOCNode Title="X Field" Url="html/F_TangibleFramework_Point_X.htm" />
+        <HelpTOCNode Title="Y Field" Url="html/F_TangibleFramework_Point_Y.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4861af1c-7f27-4d08-85dd-9ed5183997c0" Title="Response Structure" Url="html/T_TangibleFramework_Response.htm">
+      <HelpTOCNode Id="8ae642b5-6b7c-470b-b116-48c2b899b24e" Title="Response Fields" Url="html/Fields_T_TangibleFramework_Response.htm">
+        <HelpTOCNode Title="FrameTime Field" Url="html/F_TangibleFramework_Response_FrameTime.htm" />
+        <HelpTOCNode Title="FrameValue Field" Url="html/F_TangibleFramework_Response_FrameValue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="80c913cc-0f6d-4a7a-a349-74862ec04e21" Title="Serialization Class" Url="html/T_TangibleFramework_Serialization.htm">
+      <HelpTOCNode Id="cd209215-a42c-4290-ae69-767737c41527" Title="Serialization Methods" Url="html/Methods_T_TangibleFramework_Serialization.htm">
+        <HelpTOCNode Title="DeserializeObject Method " Url="html/M_TangibleFramework_Serialization_DeserializeObject.htm" />
+        <HelpTOCNode Title="SerializeObject Method " Url="html/M_TangibleFramework_Serialization_SerializeObject.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b102c399-2e08-485e-8ed8-7474c18b59f5" Title="Slab Class" Url="html/T_TangibleFramework_Slab.htm">
+      <HelpTOCNode Title="Slab Constructor " Url="html/M_TangibleFramework_Slab__ctor.htm" />
+      <HelpTOCNode Id="2e9740d4-7a1a-45d7-8f07-dbbbef7ec449" Title="Slab Fields" Url="html/Fields_T_TangibleFramework_Slab.htm">
+        <HelpTOCNode Title="SlabTagBuffer Field" Url="html/F_TangibleFramework_Slab_SlabTagBuffer.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fffb5320-9b31-4edb-abab-d3be4a0fb9f2" Title="Slab Methods" Url="html/Methods_T_TangibleFramework_Slab.htm">
+        <HelpTOCNode Title="ClearBuffer Method " Url="html/M_TangibleFramework_Slab_ClearBuffer.htm" />
+        <HelpTOCNode Title="initialize Method " Url="html/M_TangibleFramework_Slab_initialize.htm" />
+        <HelpTOCNode Title="UpdateBuffer Method " Url="html/M_TangibleFramework_Slab_UpdateBuffer.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="99621a99-a6d4-496b-aeeb-e727d27e9af1" Title="Table Class" Url="html/T_TangibleFramework_Table.htm">
+      <HelpTOCNode Title="Table Constructor " Url="html/M_TangibleFramework_Table__ctor.htm" />
+      <HelpTOCNode Id="baa1dc3e-4ea9-4e3b-9a40-69a34172acb6" Title="Table Fields" Url="html/Fields_T_TangibleFramework_Table.htm">
+        <HelpTOCNode Title="FrameBuffer Field" Url="html/F_TangibleFramework_Table_FrameBuffer.htm" />
+        <HelpTOCNode Title="SlabsTagBuffer Field" Url="html/F_TangibleFramework_Table_SlabsTagBuffer.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0de299f-8fa9-4b65-bd18-b872ae54e52d" Title="Table Methods" Url="html/Methods_T_TangibleFramework_Table.htm">
+        <HelpTOCNode Title="AddToFrameBuffer Method " Url="html/M_TangibleFramework_Table_AddToFrameBuffer.htm" />
+        <HelpTOCNode Title="UpdateFrameBuffer Method " Url="html/M_TangibleFramework_Table_UpdateFrameBuffer.htm" />
+        <HelpTOCNode Title="UpdateSlabsTagBuffer Method " Url="html/M_TangibleFramework_Table_UpdateSlabsTagBuffer.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1abbd0a6-12d0-445d-b6f3-cdd2913a289b" Title="TableServer Class" Url="html/T_TangibleFramework_TableServer.htm">
+      <HelpTOCNode Title="TableServer Constructor " Url="html/M_TangibleFramework_TableServer__ctor.htm" />
+      <HelpTOCNode Title="TableServer Constructor " Url="html/M_TangibleFramework_TableServer__cctor.htm" />
+      <HelpTOCNode Id="dbbe114a-b0f1-44ef-adb8-9e25205671ea" Title="TableServer Fields" Url="html/Fields_T_TangibleFramework_TableServer.htm">
+        <HelpTOCNode Title="Commanding_Socket Field" Url="html/F_TangibleFramework_TableServer_Commanding_Socket.htm" />
+        <HelpTOCNode Title="Connected_Slab_List Field" Url="html/F_TangibleFramework_TableServer_Connected_Slab_List.htm" />
+        <HelpTOCNode Title="Ip_Address Field" Url="html/F_TangibleFramework_TableServer_Ip_Address.htm" />
+        <HelpTOCNode Title="IP_Maximum Field" Url="html/F_TangibleFramework_TableServer_IP_Maximum.htm" />
+        <HelpTOCNode Title="IP_Minimum Field" Url="html/F_TangibleFramework_TableServer_IP_Minimum.htm" />
+        <HelpTOCNode Title="List_Tags_ID Field" Url="html/F_TangibleFramework_TableServer_List_Tags_ID.htm" />
+        <HelpTOCNode Title="Main_Buffer Field" Url="html/F_TangibleFramework_TableServer_Main_Buffer.htm" />
+        <HelpTOCNode Title="Minimum_Rssi_Value Field" Url="html/F_TangibleFramework_TableServer_Minimum_Rssi_Value.htm" />
+        <HelpTOCNode Title="Port_Number Field" Url="html/F_TangibleFramework_TableServer_Port_Number.htm" />
+        <HelpTOCNode Title="RSSI_Mode_Is_Activated Field" Url="html/F_TangibleFramework_TableServer_RSSI_Mode_Is_Activated.htm" />
+        <HelpTOCNode Title="Server_Is_Running Field" Url="html/F_TangibleFramework_TableServer_Server_Is_Running.htm" />
+        <HelpTOCNode Title="Server_Thread Field" Url="html/F_TangibleFramework_TableServer_Server_Thread.htm" />
+        <HelpTOCNode Title="Slab_Sensors_Height Field" Url="html/F_TangibleFramework_TableServer_Slab_Sensors_Height.htm" />
+        <HelpTOCNode Title="Slab_Sensors_WIdth Field" Url="html/F_TangibleFramework_TableServer_Slab_Sensors_WIdth.htm" />
+        <HelpTOCNode Title="SlabPositions Field" Url="html/F_TangibleFramework_TableServer_SlabPositions.htm" />
+        <HelpTOCNode Title="Slabs_IP_File Field" Url="html/F_TangibleFramework_TableServer_Slabs_IP_File.htm" />
+        <HelpTOCNode Title="table Field" Url="html/F_TangibleFramework_TableServer_table.htm" />
+        <HelpTOCNode Title="Table_Sensors_height Field" Url="html/F_TangibleFramework_TableServer_Table_Sensors_height.htm" />
+        <HelpTOCNode Title="Table_Sensors_WIdth Field" Url="html/F_TangibleFramework_TableServer_Table_Sensors_WIdth.htm" />
+        <HelpTOCNode Title="Time_Out Field" Url="html/F_TangibleFramework_TableServer_Time_Out.htm" />
+        <HelpTOCNode Title="UDP_Listner Field" Url="html/F_TangibleFramework_TableServer_UDP_Listner.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="336ec2f0-4340-41dc-8e43-1ff3081018dd" Title="TableServer Methods" Url="html/Methods_T_TangibleFramework_TableServer.htm">
+        <HelpTOCNode Title="Automatic_Network_Search Method " Url="html/M_TangibleFramework_TableServer_Automatic_Network_Search.htm" />
+        <HelpTOCNode Title="calcul_Medium_point Method " Url="html/M_TangibleFramework_TableServer_calcul_Medium_point.htm" />
+        <HelpTOCNode Title="Configure_Slabs_Paratmers Method " Url="html/M_TangibleFramework_TableServer_Configure_Slabs_Paratmers.htm" />
+        <HelpTOCNode Title="Configure_Slabs_Positions Method " Url="html/M_TangibleFramework_TableServer_Configure_Slabs_Positions.htm" />
+        <HelpTOCNode Title="Configure_Slabs_XML Method " Url="html/M_TangibleFramework_TableServer_Configure_Slabs_XML.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/M_TangibleFramework_TableServer_Dispose.htm" />
+        <HelpTOCNode Title="Get_Tag_Position Method " Url="html/M_TangibleFramework_TableServer_Get_Tag_Position.htm" />
+        <HelpTOCNode Title="initilize_Class_Members Method " Url="html/M_TangibleFramework_TableServer_initilize_Class_Members.htm" />
+        <HelpTOCNode Title="On_Tags_Leaving Method " Url="html/M_TangibleFramework_TableServer_On_Tags_Leaving.htm" />
+        <HelpTOCNode Title="On_Tags_Moving Method " Url="html/M_TangibleFramework_TableServer_On_Tags_Moving.htm" />
+        <HelpTOCNode Title="Run Method " Url="html/M_TangibleFramework_TableServer_Run.htm" />
+        <HelpTOCNode Title="Send_Command Method " Url="html/M_TangibleFramework_TableServer_Send_Command.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M_TangibleFramework_TableServer_Start.htm" />
+        <HelpTOCNode Title="Stop Method " Url="html/M_TangibleFramework_TableServer_Stop.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2953953b-ac73-48b4-bdbf-7ddcd6135a55" Title="TableServer Events" Url="html/Events_T_TangibleFramework_TableServer.htm">
+        <HelpTOCNode Title="Tags_Leaving Event" Url="html/E_TangibleFramework_TableServer_Tags_Leaving.htm" />
+        <HelpTOCNode Title="Tags_Updates Event" Url="html/E_TangibleFramework_TableServer_Tags_Updates.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="09d68fd9-e6ff-4f1e-9975-a514ce9514e5" Title="Tag Class" Url="html/T_TangibleFramework_Tag.htm">
+      <HelpTOCNode Id="472a9d8b-dcba-44f3-97c1-cf2041b804fd" Title="Tag Constructor " Url="html/Overload_TangibleFramework_Tag__ctor.htm">
+        <HelpTOCNode Title="Tag Constructor " Url="html/M_TangibleFramework_Tag__ctor.htm" />
+        <HelpTOCNode Title="Tag Constructor (String, Point)" Url="html/M_TangibleFramework_Tag__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="620ef7b7-3b4f-46e2-832f-6b8ddaeebc79" Title="Tag Fields" Url="html/Fields_T_TangibleFramework_Tag.htm">
+        <HelpTOCNode Title="ID Field" Url="html/F_TangibleFramework_Tag_ID.htm" />
+        <HelpTOCNode Title="Position Field" Url="html/F_TangibleFramework_Tag_Position.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="TagEventHandler Delegate" Url="html/T_TangibleFramework_TagEventHandler.htm" />
+  </HelpTOCNode>
+</HelpTOC>

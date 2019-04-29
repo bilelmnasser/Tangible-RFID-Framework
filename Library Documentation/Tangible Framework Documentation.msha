@@ -1,0 +1,20 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Documentation Center</title>
+</head>
+<body class="vendor-book">
+    <div class="details">
+        <span class="vendor">Vendor Name</span>
+        <span class="locale">en-us</span>
+        <span class="product">Documentation Center</span>
+        <span class="name">Documentation Center</span>
+    </div>
+    <div class="package-list">
+        <div class="package">
+            <!-- NOTE: The "name" span value cannot contain any periods! -->
+            <span class="name">Tangible Framework Documentation</span>
+            <a class="current-link" href="Tangible Framework Documentation.mshc">Tangible Framework Documentation.mshc</a>
+        </div>
+    </div>
+</body>
+</html>
